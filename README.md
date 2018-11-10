@@ -13,13 +13,13 @@ NB : saya menggunakan PHP7 <br>
 Ringkasan : <br>
 No. 1 Selesai<br>
 No. 2 Selesai<br>
-No. 3 Selesai<br><br>
+No. 3 Selesai<br>
 No. 4 Selesai<br>
 No. 5 Perhitungan kalimat atau karakter belum dapet jadi saya asumsikan ini fail<br>
 No. 6 Selesai<br>
 No. 7 Selesai<br>
 
-Silahkan cek saja arkademy
+Silahkan cek saja source codenya mas/mba arkademy
 
 
 Terimakasih <br>
