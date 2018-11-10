@@ -1,5 +1,4 @@
-# seleksi_bootcamp_arkademy
-Seleksi Grand Bootcamp Arkademy 11/10/2018
+# SELEKSI GRAND BOOTCAMP ARKADEMY 11/10/2018
 ========================================================================================<br>
 Konfigurasi database <br>
 upload terlebih dahulu database nya : arkademy.sql<br>
@@ -20,6 +19,7 @@ No. 5 Perhitungan kalimat atau karakter belum dapet jadi saya asumsikan ini fail
 No. 6 Selesai<br>
 No. 7 Selesai<br>
 
+Silahkan cek saja arkademy
 
 
 Terimakasih <br>
