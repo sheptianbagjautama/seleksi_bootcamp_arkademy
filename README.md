@@ -1,13 +1,13 @@
 # seleksi_bootcamp_arkademy
 Seleksi Grand Bootcamp Arkademy 11/10/2018
 
-Konfigurasi database 
-upload terlebih dahulu database nya : arkademy.sql
-untuk config koneksi disesuaikan dengan instalan komputer 
-$servername		= "localhost";
-$database 		= "arkademy";
-$username		= "root";
-$password		= ""; 
+Konfigurasi database <br>
+upload terlebih dahulu database nya : arkademy.sql<br>
+untuk config koneksi disesuaikan dengan instalan komputer <br>
+$servername		= "localhost";<br>
+$database 		= "arkademy";<br>
+$username		= "root";<br>
+$password		= ""; <br>
 
 NB : saya menggunakan PHP7
 
