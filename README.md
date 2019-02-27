@@ -23,3 +23,6 @@ Silahkan cek saja source codenya mas/mba arkademy
 
 
 Terimakasih <br>
+
+HASIL TEST: DITERIMA<br>
+Tetapi beasiswa tidak saya ambil karena ada beberapa alasan pribadi.
